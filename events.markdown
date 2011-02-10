@@ -36,21 +36,21 @@ As a member you will receive meeting notices via email. You can preregister by c
     <tr> 
       <td>26 February</td> 
       <td><a href="docs/MissingThreeQuarter.pdf">MISSING THREE-QUARTER</a></td> 
-      <td>Beeton Auditorium - Toronto Reference Library</td> 
+      <td><a href="http://maps.google.ca/maps/place?cid=17040597233228810005&amp;q=Beeton+Auditorium&amp;hl=en&amp;sll=43.67177,-79.38704&amp;sspn=0.006295,0.006295&amp;ll=43.675539,-79.396691&amp;spn=0,0&amp;z=16">Beeton Auditorium</td> 
       <td>7pm</td> 
       <td></td> 
     </tr> 
     <tr> 
       <td>2 April</td> 
       <td>ABBEY GRANGE</td> 
-      <td>Beeton Auditorium - Toronto Reference Library</td> 
+      <td><a href="http://maps.google.ca/maps/place?cid=17040597233228810005&amp;q=Beeton+Auditorium&amp;hl=en&amp;sll=43.67177,-79.38704&amp;sspn=0.006295,0.006295&amp;ll=43.675539,-79.396691&amp;spn=0,0&amp;z=16">Beeton Auditorium</td> 
       <td>7pm</td> 
       <td></td> 
     </tr> 
     <tr> 
       <td>30 April</td> 
       <td>Cameron Hollyer Lecture</td> 
-      <td>Beeton Auditorium - Toronto Reference Library</td> 
+      <td><a href="http://maps.google.ca/maps/place?cid=17040597233228810005&amp;q=Beeton+Auditorium&amp;hl=en&amp;sll=43.67177,-79.38704&amp;sspn=0.006295,0.006295&amp;ll=43.675539,-79.396691&amp;spn=0,0&amp;z=16">Beeton Auditorium</td> 
       <td>3pm</td> 
       <td></td> 
     </tr> 
@@ -71,7 +71,7 @@ As a member you will receive meeting notices via email. You can preregister by c
     <tr> 
       <td>24 September</td> 
       <td>DEVIL'S FOOT</td> 
-      <td>Beeton Auditorium - Toronto Reference Library</td> 
+      <td><a href="http://maps.google.ca/maps/place?cid=17040597233228810005&amp;q=Beeton+Auditorium&amp;hl=en&amp;sll=43.67177,-79.38704&amp;sspn=0.006295,0.006295&amp;ll=43.675539,-79.396691&amp;spn=0,0&amp;z=16">Beeton Auditorium</td> 
       <td>7pm</td> 
       <td></td> 
     </tr> 
@@ -86,21 +86,21 @@ As a member you will receive meeting notices via email. You can preregister by c
     <tr> 
       <td>5 November</td> 
       <td>DANCING MEN</td> 
-      <td>Beeton Auditorium - Toronto Reference Library</td> 
+      <td><a href="http://maps.google.ca/maps/place?cid=17040597233228810005&amp;q=Beeton+Auditorium&amp;hl=en&amp;sll=43.67177,-79.38704&amp;sspn=0.006295,0.006295&amp;ll=43.675539,-79.396691&amp;spn=0,0&amp;z=16">Beeton Auditorium</td> 
       <td>7pm</td> 
       <td></td> 
     </tr> 
     <tr> 
       <td>3 December</td> 
       <td>Annual General Meeting</td> 
-      <td>Beeton Auditorium - Toronto Reference Library</td> 
+      <td><a href="http://maps.google.ca/maps/place?cid=17040597233228810005&amp;q=Beeton+Auditorium&amp;hl=en&amp;sll=43.67177,-79.38704&amp;sspn=0.006295,0.006295&amp;ll=43.675539,-79.396691&amp;spn=0,0&amp;z=16">Beeton Auditorium</td> 
       <td>6:30pm</td> 
       <td></td> 
     </tr> 
     <tr> 
       <td></td> 
       <td>RETIRED COLOURMAN</td> 
-      <td>Beeton Auditorium - Toronto Reference Library</td> 
+      <td><a href="http://maps.google.ca/maps/place?cid=17040597233228810005&amp;q=Beeton+Auditorium&amp;hl=en&amp;sll=43.67177,-79.38704&amp;sspn=0.006295,0.006295&amp;ll=43.675539,-79.396691&amp;spn=0,0&amp;z=16">Beeton Auditorium</td> 
       <td>7pm</td> 
       <td></td> 
     </tr> 
