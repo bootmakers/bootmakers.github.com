@@ -21,7 +21,7 @@ As a member you will receive meeting notices via email. You can preregister by c
     </tr> 
     <tr> 
       <td>29 January</td> 
-      <td><a href="PDFs/BlueCarbuncle.pdf">Blue Carbuncle Dinner</a></td> 
+      <td><a href="docs/BlueCarbuncle.pdf">Blue Carbuncle Dinner</a></td> 
       <td>Toronto Lawn Tennis Club</td> 
       <td>7pm</td> 
       <td></td> 
@@ -35,7 +35,7 @@ As a member you will receive meeting notices via email. You can preregister by c
     </tr> 
     <tr> 
       <td>26 February</td> 
-      <td>MISSING THREE-QUARTER</td> 
+      <td><a href="docs/MissingThreeQuarter.pdf">MISSING THREE-QUARTER</a></td> 
       <td>Beeton Auditorium - Toronto Reference Library</td> 
       <td>7pm</td> 
       <td></td> 
