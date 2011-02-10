@@ -10,28 +10,28 @@ Our events feature both story meetings and less formal social meetings. At story
 
 As a member you will receive meeting notices via email. You can preregister by clicking on the link for the event and mailing in the form, or by emailing [bootmaker.meyers@gmail.com](mailto:bootmaker.meyers@gmail.com).  If you are so technically inclined, you can load the <a href="http://www.google.com/calendar/ical/qenue5g787ltv9brsvcrtf55rs%40group.calendar.google.com/public/basic.ics">google iCal</a> into your scheduling tool of choice.
 
-<table> 
-  <tbody> 
-    <tr> 
-      <th>Date</th> 
-      <th>Event</th> 
-      <th>Location</th> 
-      <th>Time</th> 
-      <th>Other Information</th> 
-    </tr> 
-    <tr> 
-      <td>29 January</td> 
-      <td><a href="docs/BlueCarbuncle.pdf">Blue Carbuncle Dinner</a></td> 
-      <td>Toronto Lawn Tennis Club</td> 
-      <td>7pm</td> 
-      <td></td> 
-    </tr> 
-    <tr> 
-      <td>30 January</td> 
-      <td>Bishop &amp; Belcher Pub</td> 
-      <td>Marlene Aig Memorial Brunch</td> 
-      <td>11am</td> 
-      <td>Order from menu</td> 
+<table>
+  <tbody>
+    <tr>
+      <th>Date</th>
+      <th>Event</th>
+      <th>Location</th>
+      <th>Time</th>
+      <th>Other Information</th>
+    </tr>
+    <tr>
+      <td>29 January</td>
+      <td><a href="docs/BlueCarbuncle.pdf">Blue Carbuncle Dinner</a></td>
+      <td>Toronto Lawn Tennis Club</td>
+      <td>7pm</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>30 January</td>
+      <td>Marlene Aig Memorial Brunch</td>
+      <td><a href="http://maps.google.ca/maps/place?cid=17330399399270744072&amp;q=bishop+%26+belcher+pub&hl=en&amp;sll=49.891235,-97.15369&amp;sspn=27.611305,79.013672&amp;ie=UTF8&amp;ll=61.773123,-136.669922&amp;spn=0,0&amp;z=4">Bishop &amp; Belcher Pub</a></td>
+      <td>11am</td>
+      <td>Order from menu</td>
     </tr> 
     <tr> 
       <td>26 February</td> 
@@ -48,61 +48,60 @@ As a member you will receive meeting notices via email. You can preregister by c
       <td></td> 
     </tr> 
     <tr> 
-      <td>30 April</td> 
-      <td>Cameron Hollyer Lecture</td> 
-      <td><a href="http://maps.google.ca/maps/place?cid=17040597233228810005&amp;q=Beeton+Auditorium&amp;hl=en&amp;sll=43.67177,-79.38704&amp;sspn=0.006295,0.006295&amp;ll=43.675539,-79.396691&amp;spn=0,0&amp;z=16">Beeton Auditorium</a></td> 
-      <td>3pm</td> 
-      <td></td> 
-    </tr> 
-    <tr> 
-      <td></td> 
-      <td>Pub Night</td> 
-      <td>Duke of Kent Pub</td> 
-      <td>6pm</td> 
-      <td></td> 
-    </tr> 
-    <tr> 
-      <td>TBA July</td> 
-      <td>SILVER BLAZE Event</td> 
-      <td>Woodbine</td> 
-      <td>Noon</td> 
-      <td>Costs meal</td> 
-    </tr> 
-    <tr> 
-      <td>24 September</td> 
-      <td>DEVIL'S FOOT</td> 
-      <td><a href="http://maps.google.ca/maps/place?cid=17040597233228810005&amp;q=Beeton+Auditorium&amp;hl=en&amp;sll=43.67177,-79.38704&amp;sspn=0.006295,0.006295&amp;ll=43.675539,-79.396691&amp;spn=0,0&amp;z=16">Beeton Auditorium</a></td> 
-      <td>7pm</td> 
-      <td></td> 
-    </tr> 
-    <tr> 
-      <td>13 - 16 October</td> 
-      <td><a href="http://acdfriends.org/sins.htm">SinS</a></td> 
-      <td>Toronto Reference
-      Library (and environs)</td> 
-      <td></td> 
-      <td></td> 
-    </tr> 
-    <tr> 
-      <td>5 November</td> 
-      <td>DANCING MEN</td> 
-      <td><a href="http://maps.google.ca/maps/place?cid=17040597233228810005&amp;q=Beeton+Auditorium&amp;hl=en&amp;sll=43.67177,-79.38704&amp;sspn=0.006295,0.006295&amp;ll=43.675539,-79.396691&amp;spn=0,0&amp;z=16">Beeton Auditorium</a></td> 
-      <td>7pm</td> 
-      <td></td> 
-    </tr> 
-    <tr> 
-      <td>3 December</td> 
-      <td>Annual General Meeting</td> 
-      <td><a href="http://maps.google.ca/maps/place?cid=17040597233228810005&amp;q=Beeton+Auditorium&amp;hl=en&amp;sll=43.67177,-79.38704&amp;sspn=0.006295,0.006295&amp;ll=43.675539,-79.396691&amp;spn=0,0&amp;z=16">Beeton Auditorium</a></td> 
-      <td>6:30pm</td> 
-      <td></td> 
-    </tr> 
-    <tr> 
-      <td></td> 
-      <td>RETIRED COLOURMAN</td> 
-      <td><a href="http://maps.google.ca/maps/place?cid=17040597233228810005&amp;q=Beeton+Auditorium&amp;hl=en&amp;sll=43.67177,-79.38704&amp;sspn=0.006295,0.006295&amp;ll=43.675539,-79.396691&amp;spn=0,0&amp;z=16">Beeton Auditorium</a></td> 
-      <td>7pm</td> 
-      <td></td> 
-    </tr> 
-  </tbody> 
+      <td>30 April</td>
+      <td>Cameron Hollyer Lecture</td>
+      <td><a href="http://maps.google.ca/maps/place?cid=17040597233228810005&amp;q=Beeton+Auditorium&amp;hl=en&amp;sll=43.67177,-79.38704&amp;sspn=0.006295,0.006295&amp;ll=43.675539,-79.396691&amp;spn=0,0&amp;z=16">Beeton Auditorium</a></td>
+      <td>3pm</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>Pub Night</td>
+      <td><a href="http://maps.google.ca/maps/place?cid=200023915768681529&amp;q=Duke+of+Kent&amp;hl=en&amp;sll=43.707983,-79.398319&amp;sspn=0.006295,0.006295&amp;ie=UTF8&amp;ll=43.71175,-79.407978&amp;spn=0,0&amp;z=16">Duke of Kent Pub</a></td>
+      <td>6pm</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>TBA July</td>
+      <td>SILVER BLAZE Event</td>
+      <td>Woodbine</td>
+      <td>Noon</td>
+      <td>Costs meal</td>
+    </tr>
+    <tr>
+      <td>24 September</td>
+      <td>DEVIL'S FOOT</td>
+      <td><a href="http://maps.google.ca/maps/place?cid=17040597233228810005&amp;q=Beeton+Auditorium&amp;hl=en&amp;sll=43.67177,-79.38704&amp;sspn=0.006295,0.006295&amp;ll=43.675539,-79.396691&amp;spn=0,0&amp;z=16">Beeton Auditorium</a></td>
+      <td>7pm</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>13 - 16 October</td>
+      <td><a href="http://acdfriends.org/sins.htm">SinS</a></td>
+      <td>Toronto Reference Library</td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5 November</td>
+      <td>DANCING MEN</td>
+      <td><a href="http://maps.google.ca/maps/place?cid=17040597233228810005&amp;q=Beeton+Auditorium&amp;hl=en&amp;sll=43.67177,-79.38704&amp;sspn=0.006295,0.006295&amp;ll=43.675539,-79.396691&amp;spn=0,0&amp;z=16">Beeton Auditorium</a></td>
+      <td>7pm</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3 December</td>
+      <td>Annual General Meeting</td>
+      <td><a href="http://maps.google.ca/maps/place?cid=17040597233228810005&amp;q=Beeton+Auditorium&amp;hl=en&amp;sll=43.67177,-79.38704&amp;sspn=0.006295,0.006295&amp;ll=43.675539,-79.396691&amp;spn=0,0&amp;z=16">Beeton Auditorium</a></td>
+      <td>6:30pm</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>RETIRED COLOURMAN</td>
+      <td><a href="http://maps.google.ca/maps/place?cid=17040597233228810005&amp;q=Beeton+Auditorium&amp;hl=en&amp;sll=43.67177,-79.38704&amp;sspn=0.006295,0.006295&amp;ll=43.675539,-79.396691&amp;spn=0,0&amp;z=16">Beeton Auditorium</a></td>
+      <td>7pm</td>
+      <td></td>
+    </tr>
+  </tbody>
 </table>
