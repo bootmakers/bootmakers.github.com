@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Membership
+title: The Bootmakers of Toronto - A Sherlockian Society
 ---
 
 The Sherlock Holmes Society of Canada
