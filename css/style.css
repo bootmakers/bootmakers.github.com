@@ -304,6 +304,16 @@ dl.multiple-table dd
     padding-bottom: 5px;
 }
 
+th
+{
+    font-weight: bold;
+}
+
+td, th
+{
+    padding: 5px;
+}
+
 /* END Primary Styles */
 
 /*

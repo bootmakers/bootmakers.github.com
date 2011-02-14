@@ -165,22 +165,22 @@ True Davidson: Pioneer in the involvement of women in Canadian politics, she bec
   <table>
     <tbody>
       <tr style="display:none;">
-        <th>Year</th>
-        <th>Recipient</th>
-        <th>Paper</th>
+        <th scope="col">Year</th>
+        <th scope="col">Recipient</th>
+        <th scope="col">Paper</th>
       </tr>
       <tr>
-        <td>2009</td>
+        <th scope="row">2009</th>
         <td>Margot French</td>
         <td>The Three Students: Examination Security Then and Now</td>
       </tr>
       <tr>
-        <td>2008</td>
+        <th scope="row">2008</th>
         <td>Chris Redmond</td>
         <td>Advice from Professor Moriarty on the Presentation of Sherlockian Papers</td>
       </tr>
       <tr>
-        <td>2007</td>
+        <th scope="row">2007</th>
         <td>Chris Redmond</td>
         <td>The Singular Affair of the Untold Tail</td>
       </tr>
@@ -196,17 +196,17 @@ Derrick Murdoch: The first MEYERS of the BOOTMAKERS OF TORONTO (born 1909, died 
   <table>
     <tbody>
       <tr style="display:none;">
-        <th>Year</th>
-        <th>Recipient</th>
-        <th>Article</th>
+        <th scope="col">Year</th>
+        <th scope="col">Recipient</th>
+        <th scope="col">Article</th>
       </tr>
       <tr>
-        <td>2009</td>
+        <th scope="row">2009</th>
         <td>Dr. Anthony Papagiannis</td>
         <td>Sherlock Holmes and the Art of Clinical Detection</td>
       </tr>
       <tr>
-        <td>2007</td>
+        <th scope="row">2007</th>
         <td>Les Klinger</td>
         <td>A Study in Manuscripts</td>
       </tr>

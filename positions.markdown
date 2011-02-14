@@ -9,7 +9,7 @@ Meyers, named for the Torontonian who made the boot in the Hounds of the Baskerv
 <a href="#PastMeyers">See Past Meyers</a>
 
 <div class="see-more" id="PastMeyers">
-  <dl>
+  <dl class="multiple-table">
     <dt>2010</dt>
     <dd>Douglas Wrigglesworth</dd>
 
